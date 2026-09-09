@@ -1,8 +1,8 @@
 # Parámetros por sitio
 
-Cada sitio requiere ajustar `N_CHUNKS` en `generar_chunks_correctos.sh` según 
+Cada sitio requiere ajustar `N_CHUNKS` en el script `generar_chunks_correctos.sh` según 
 el número de genes anotados, manteniendo un tamaño de chunk cercano a 41.000 
-genes (ver README de esta carpeta para el detalle de por qué).
+genes (ver README de esta carpeta para el detalle de por qué). Estos valores se copiaron desde los logs obtenidos al momento de correr el script.
 
 | Sitio | Archivo base | N_CHUNKS | Genes totales anotados |
 |---|---|---|---|
