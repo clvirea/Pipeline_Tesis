@@ -1,6 +1,6 @@
 # Generación de modelos SBML
 
-Esta carpeta contiene el pipeline para generar los modelos metabólicos (SBML) 
+Esta carpeta contiene el pipeline ejecutado en Ubuntu para generar los modelos metabólicos (SBML) 
 a partir de los metagenomas anotados de cada sitio, usando `emapper2gbk`, 
 `mpwt` (Pathway Tools) y `padmet_utils`.
 
@@ -23,4 +23,5 @@ sitio (aprox. genes / 41.000; este número fue el tamaño definido empíricament
 corrida: sitio Ilque, N_CHUNKS=5). 
 
 Los datos de entrada (fna/faa/anotaciones) están disponibles en: [https://drive.google.com/drive/u/3/folders/1_sEGeOHrAnkgh3px7VRD88SxQoieFjvA].
-OBS:Añadir SBMLs a Github o dejar en Drive??
+
+Los modelos generados se encuentran en la carpeta "sbml_crudos".
