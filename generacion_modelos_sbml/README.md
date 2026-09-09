@@ -24,4 +24,4 @@ corrida: sitio Ilque, N_CHUNKS=5).
 
 Los datos de entrada (fna/faa/anotaciones) están disponibles en: [https://drive.google.com/drive/u/3/folders/1_sEGeOHrAnkgh3px7VRD88SxQoieFjvA].
 
-Los modelos generados se encuentran en la carpeta "sbml_crudos".
+Los modelos generados, sin ningún tipo de curación, se encuentran en la carpeta "sbml" de cada sitio correspondiente en este Drive: [https://drive.google.com/drive/folders/1it7D4Ucdo8WPooAbmDJR0UT93wKm-yeQ?usp=sharing].
