@@ -1,7 +1,9 @@
 # Curación con cofactores
 
 Esta carpeta contiene el pipeline de curación de los modelos metabólicos (SBML) generados en `generacion_modelos_sbml/`, usando una semilla de cofactores para detectar y eliminar reacciones que generan fugas de metabolitos no-cofactor.
-Este metodología se aplicó en el trabajo de Ulloa, et al. (2026) y fue inspirado a partir de lo expuesto por Saadat, et al., 2022. (doi: 10.3390/metabo12040275)
+Este metodología se aplicó en el trabajo de Ulloa, et al. (2026) y fue inspirado a partir de lo expuesto por Saadat, et al., 2022. (doi: 10.3390/metabo12040275). 
+Al calcular el alcance metabólico (scope) con MeneTools u otros algoritmos de expansión de red, los cofactores (por ejemplo ATP/ADP, NAD/NADH, entre otros) pueden inducir errores ya que, si se incluyen tal cual en la semilla, sus productos de degradación se cuentan como producibles, inflando artificialmente el scope. Por ello, las reacciones que los involucran se duplican asignándoles un identificador con el tag `_cof_`, de modo que al calcular el scope, la semilla de cofactores contiene metabolitos con ese mismo tag, permitiendo activar estas reacciones sin generar fugas hacia el resto de la red.
+
 
 ## Archivos
 
