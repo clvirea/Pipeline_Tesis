@@ -2,7 +2,7 @@
 
 Cada sitio requiere ajustar `N_CHUNKS` en el script `generar_chunks_correctos.sh` según 
 el número de genes anotados, manteniendo un tamaño de chunk cercano a 41.000 
-genes (ver README de esta carpeta para el detalle de por qué), considerando que "N genes / N_CHUNKS = tamaño de chunk resultante". Estos valores se copiaron desde los logs obtenidos al momento de correr el script. Los archivos base corresponden a estos formatos: "sitio_contigs.fasta.db.faa", "sitio_contigs.fasta.db.fna" y "sitio_contigs.fasta.db.faa.emapper6.emapper.annotations". El número de genes totales anotados no es el total de genes predichos en el metagenoma, sino los genes que eggNOG-mapper logró anotar funcionalmente (es decir, el número de líneas del archivo de anotaciones).
+genes (ver README de esta carpeta para el detalle de por qué), considerando que "N genes / N_CHUNKS = tamaño de chunk resultante". Estos valores se copiaron desde los logs obtenidos al momento de correr el script, que se pueden encontrar en la carpeta `logs`. Los archivos base corresponden a estos formatos: "sitio_contigs.fasta.db.faa", "sitio_contigs.fasta.db.fna" y "sitio_contigs.fasta.db.faa.emapper6.emapper.annotations". El número de genes totales anotados no es el total de genes predichos en el metagenoma, sino los genes que eggNOG-mapper logró anotar funcionalmente (es decir, el número de líneas del archivo de anotaciones).
 
 | Sitio | Archivos base | N_CHUNKS | Genes totales anotados 
 |---|---|---|---|
