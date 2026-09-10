@@ -25,4 +25,4 @@ corrida: sitio Ilque, N_CHUNKS=5). En el documento `ubuntu_docas.docx` hay un ej
 
 Los datos de entrada (fna/faa/anotaciones) están disponibles en: https://drive.google.com/drive/u/3/folders/1_sEGeOHrAnkgh3px7VRD88SxQoieFjvA
 
-Los modelos generados, sin ningún tipo de curación, se encuentran en la carpeta "sbml" (con nombre: `sitio_metagenome_withgenes.sbml`) de cada sitio correspondiente en: https://drive.google.com/drive/folders/1it7D4Ucdo8WPooAbmDJR0UT93wKm-yeQ?usp=sharing
+Los modelos generados, sin ningún tipo de curación, se encuentran en la carpeta `"sbml"` (con nombre: `sitio_metagenome_withgenes.sbml`) de cada sitio correspondiente en: https://drive.google.com/drive/folders/1it7D4Ucdo8WPooAbmDJR0UT93wKm-yeQ?usp=sharing
