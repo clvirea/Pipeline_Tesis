@@ -20,7 +20,8 @@ a partir de los metagenomas anotados de cada sitio, usando `emapper2gbk`,
 Por cada sitio se copia el script, se reemplazan las rutas de entrada 
 (fna/faa/annotations) y se ajusta `N_CHUNKS` según el número de genes del 
 sitio (aprox. genes / 41.000; este número fue el tamaño definido empíricamente en la primera 
-corrida: sitio Ilque, N_CHUNKS=5). 
+corrida: sitio Ilque, N_CHUNKS=5). En el documento `ubuntu_docas.docx` hay un ejemplo de cómo se creó el modelo de Las Docas. Estoe contiene el contenido de la terminal en Ubuntu y comentarios adicionales.
+
 
 Los datos de entrada (fna/faa/anotaciones) están disponibles en: https://drive.google.com/drive/u/3/folders/1_sEGeOHrAnkgh3px7VRD88SxQoieFjvA
 
