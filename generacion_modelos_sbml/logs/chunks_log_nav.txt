@@ -1,0 +1,406 @@
+nohup: ignoring input
+============================================
+PASO 1: Dividir anotaciones en 23 chunks
+============================================
+Total genes anotados: 664006 | Chunk size: 28870
+Chunks de anotaciones generados: 23
+
+============================================
+PASO 2: Por cada chunk, extraer FNA y FAA correspondientes
+============================================
+
+--- Procesando chunk_000 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_000
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_000
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 8.11 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_000.gbk | LOCUSes: 28870 | Tamaño: 55M
+
+--- Procesando chunk_001 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_001
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_001
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.61 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_001.gbk | LOCUSes: 28870 | Tamaño: 55M
+
+--- Procesando chunk_002 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_002
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_002
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.48 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_002.gbk | LOCUSes: 28870 | Tamaño: 55M
+
+--- Procesando chunk_003 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_003
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_003
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 8.39 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_003.gbk | LOCUSes: 28870 | Tamaño: 55M
+
+--- Procesando chunk_004 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_004
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_004
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 10.63 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_004.gbk | LOCUSes: 28870 | Tamaño: 54M
+
+--- Procesando chunk_005 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_005
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_005
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 8.44 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_005.gbk | LOCUSes: 28870 | Tamaño: 53M
+
+--- Procesando chunk_006 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_006
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_006
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.36 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_006.gbk | LOCUSes: 28870 | Tamaño: 51M
+
+--- Procesando chunk_007 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_007
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_007
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.42 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_007.gbk | LOCUSes: 28870 | Tamaño: 52M
+
+--- Procesando chunk_008 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_008
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_008
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 8.04 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_008.gbk | LOCUSes: 28870 | Tamaño: 55M
+
+--- Procesando chunk_009 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_009
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_009
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.93 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_009.gbk | LOCUSes: 28870 | Tamaño: 55M
+
+--- Procesando chunk_010 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_010
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_010
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.48 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_010.gbk | LOCUSes: 28870 | Tamaño: 55M
+
+--- Procesando chunk_011 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_011
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_011
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 8.30 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_011.gbk | LOCUSes: 28870 | Tamaño: 55M
+
+--- Procesando chunk_012 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_012
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_012
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 8.00 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_012.gbk | LOCUSes: 28870 | Tamaño: 54M
+
+--- Procesando chunk_013 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_013
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_013
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.45 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_013.gbk | LOCUSes: 28870 | Tamaño: 53M
+
+--- Procesando chunk_014 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_014
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_014
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 8.04 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_014.gbk | LOCUSes: 28870 | Tamaño: 50M
+
+--- Procesando chunk_015 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_015
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_015
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 9.13 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_015.gbk | LOCUSes: 28870 | Tamaño: 54M
+
+--- Procesando chunk_016 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_016
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_016
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.75 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_016.gbk | LOCUSes: 28870 | Tamaño: 56M
+
+--- Procesando chunk_017 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_017
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_017
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 8.36 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_017.gbk | LOCUSes: 28870 | Tamaño: 55M
+
+--- Procesando chunk_018 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_018
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_018
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.95 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_018.gbk | LOCUSes: 28870 | Tamaño: 55M
+
+--- Procesando chunk_019 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_019
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_019
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.87 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_019.gbk | LOCUSes: 28870 | Tamaño: 55M
+
+--- Procesando chunk_020 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_020
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_020
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.63 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_020.gbk | LOCUSes: 28870 | Tamaño: 54M
+
+--- Procesando chunk_021 ---
+  Genes en este chunk: 28870
+  IDs a buscar: 28870
+  FNA extraídas: 28870
+  FAA extraídas: 28870
+  Verificación: FNA=28870 | FAA=28870 | Annot=28870
+
+PASO 3: Generar GBK para chunk_021
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_021
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.53 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_021.gbk | LOCUSes: 28870 | Tamaño: 52M
+
+--- Procesando chunk_022 ---
+  Genes en este chunk: 28866
+  IDs a buscar: 28866
+  FNA extraídas: 28866
+  FAA extraídas: 28866
+  Verificación: FNA=28866 | FAA=28866 | Annot=28866
+
+PASO 3: Generar GBK para chunk_022
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_022
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.39 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/navidad/gbk/chunk_022.gbk | LOCUSes: 28866 | Tamaño: 50M
+
+============================================
+RESUMEN FINAL
+============================================
+  chunk_000.gbk: 28870 LOCUSes, 55M
+  chunk_001.gbk: 28870 LOCUSes, 55M
+  chunk_002.gbk: 28870 LOCUSes, 55M
+  chunk_003.gbk: 28870 LOCUSes, 55M
+  chunk_004.gbk: 28870 LOCUSes, 54M
+  chunk_005.gbk: 28870 LOCUSes, 53M
+  chunk_006.gbk: 28870 LOCUSes, 51M
+  chunk_007.gbk: 28870 LOCUSes, 52M
+  chunk_008.gbk: 28870 LOCUSes, 55M
+  chunk_009.gbk: 28870 LOCUSes, 55M
+  chunk_010.gbk: 28870 LOCUSes, 55M
+  chunk_011.gbk: 28870 LOCUSes, 55M
+  chunk_012.gbk: 28870 LOCUSes, 54M
+  chunk_013.gbk: 28870 LOCUSes, 53M
+  chunk_014.gbk: 28870 LOCUSes, 50M
+  chunk_015.gbk: 28870 LOCUSes, 54M
+  chunk_016.gbk: 28870 LOCUSes, 56M
+  chunk_017.gbk: 28870 LOCUSes, 55M
+  chunk_018.gbk: 28870 LOCUSes, 55M
+  chunk_019.gbk: 28870 LOCUSes, 55M
+  chunk_020.gbk: 28870 LOCUSes, 54M
+  chunk_021.gbk: 28870 LOCUSes, 52M
+  chunk_022.gbk: 28866 LOCUSes, 50M
+Espacio total: 1.2G	/home/claire/emapper2gbk/TESIS/navidad/gbk

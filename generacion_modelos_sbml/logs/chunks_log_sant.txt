@@ -1,0 +1,695 @@
+nohup: ignoring input
+============================================
+PASO 1: Dividir anotaciones en 40 chunks
+============================================
+Total genes anotados: 734722 | Chunk size: 18369
+Chunks de anotaciones generados: 40
+
+============================================
+PASO 2: Por cada chunk, extraer FNA y FAA correspondientes
+============================================
+
+--- Procesando chunk_000 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_000
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_000
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.84 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_000.gbk | LOCUSes: 18369 | Tamaño: 52M
+
+--- Procesando chunk_001 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_001
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_001
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.05 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_001.gbk | LOCUSes: 18369 | Tamaño: 33M
+
+--- Procesando chunk_002 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_002
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_002
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.10 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_002.gbk | LOCUSes: 18369 | Tamaño: 52M
+
+--- Procesando chunk_003 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_003
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_003
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.50 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_003.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_004 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_004
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_004
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.82 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_004.gbk | LOCUSes: 18369 | Tamaño: 53M
+
+--- Procesando chunk_005 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_005
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_005
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.40 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_005.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_006 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_006
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_006
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 7.91 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_006.gbk | LOCUSes: 18369 | Tamaño: 51M
+
+--- Procesando chunk_007 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_007
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_007
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.95 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_007.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_008 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_008
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_008
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.61 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_008.gbk | LOCUSes: 18369 | Tamaño: 52M
+
+--- Procesando chunk_009 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_009
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_009
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.16 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_009.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_010 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_010
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_010
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.61 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_010.gbk | LOCUSes: 18369 | Tamaño: 52M
+
+--- Procesando chunk_011 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_011
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_011
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.11 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_011.gbk | LOCUSes: 18369 | Tamaño: 33M
+
+--- Procesando chunk_012 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_012
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_012
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.95 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_012.gbk | LOCUSes: 18369 | Tamaño: 52M
+
+--- Procesando chunk_013 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_013
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_013
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 5.98 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_013.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_014 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_014
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_014
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.48 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_014.gbk | LOCUSes: 18369 | Tamaño: 53M
+
+--- Procesando chunk_015 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_015
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_015
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.07 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_015.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_016 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_016
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_016
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.58 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_016.gbk | LOCUSes: 18369 | Tamaño: 53M
+
+--- Procesando chunk_017 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_017
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_017
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 5.97 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_017.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_018 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_018
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_018
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.58 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_018.gbk | LOCUSes: 18369 | Tamaño: 52M
+
+--- Procesando chunk_019 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_019
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_019
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.08 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_019.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_020 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_020
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_020
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.57 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_020.gbk | LOCUSes: 18369 | Tamaño: 54M
+
+--- Procesando chunk_021 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_021
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_021
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.01 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_021.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_022 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_022
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_022
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.65 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_022.gbk | LOCUSes: 18369 | Tamaño: 53M
+
+--- Procesando chunk_023 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_023
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_023
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.09 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_023.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_024 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_024
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_024
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.72 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_024.gbk | LOCUSes: 18369 | Tamaño: 53M
+
+--- Procesando chunk_025 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_025
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_025
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 5.97 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_025.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_026 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_026
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_026
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.58 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_026.gbk | LOCUSes: 18369 | Tamaño: 53M
+
+--- Procesando chunk_027 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_027
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_027
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.08 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_027.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_028 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_028
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_028
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.52 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_028.gbk | LOCUSes: 18369 | Tamaño: 53M
+
+--- Procesando chunk_029 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_029
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_029
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.09 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_029.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_030 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_030
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_030
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.62 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_030.gbk | LOCUSes: 18369 | Tamaño: 53M
+
+--- Procesando chunk_031 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_031
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_031
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.07 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_031.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_032 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_032
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_032
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.62 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_032.gbk | LOCUSes: 18369 | Tamaño: 53M
+
+--- Procesando chunk_033 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_033
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_033
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.43 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_033.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_034 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_034
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_034
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.68 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_034.gbk | LOCUSes: 18369 | Tamaño: 52M
+
+--- Procesando chunk_035 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_035
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_035
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.16 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_035.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_036 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_036
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_036
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.59 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_036.gbk | LOCUSes: 18369 | Tamaño: 51M
+
+--- Procesando chunk_037 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_037
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_037
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.36 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_037.gbk | LOCUSes: 18369 | Tamaño: 32M
+
+--- Procesando chunk_038 ---
+  Genes en este chunk: 18369
+  IDs a buscar: 18369
+  FNA extraídas: 18369
+  FAA extraídas: 18369
+  Verificación: FNA=18369 | FAA=18369 | Annot=18369
+
+PASO 3: Generar GBK para chunk_038
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_038
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 6.64 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_038.gbk | LOCUSes: 18369 | Tamaño: 51M
+
+--- Procesando chunk_039 ---
+  Genes en este chunk: 18331
+  IDs a buscar: 18331
+  FNA extraídas: 18331
+  FAA extraídas: 18331
+  Verificación: FNA=18331 | FAA=18331 | Annot=18331
+
+PASO 3: Generar GBK para chunk_039
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Assembling Genbank informations for fna_chunk_039
+/home/claire/.local/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:773: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+--- Total runtime 5.99 seconds ---
+  OK → /home/claire/emapper2gbk/TESIS/san_antonio/gbk/chunk_039.gbk | LOCUSes: 18331 | Tamaño: 32M
+
+============================================
+RESUMEN FINAL
+============================================
+  chunk_000.gbk: 18369 LOCUSes, 52M
+  chunk_001.gbk: 18369 LOCUSes, 33M
+  chunk_002.gbk: 18369 LOCUSes, 52M
+  chunk_003.gbk: 18369 LOCUSes, 32M
+  chunk_004.gbk: 18369 LOCUSes, 53M
+  chunk_005.gbk: 18369 LOCUSes, 32M
+  chunk_006.gbk: 18369 LOCUSes, 51M
+  chunk_007.gbk: 18369 LOCUSes, 32M
+  chunk_008.gbk: 18369 LOCUSes, 52M
+  chunk_009.gbk: 18369 LOCUSes, 32M
+  chunk_010.gbk: 18369 LOCUSes, 52M
+  chunk_011.gbk: 18369 LOCUSes, 33M
+  chunk_012.gbk: 18369 LOCUSes, 52M
+  chunk_013.gbk: 18369 LOCUSes, 32M
+  chunk_014.gbk: 18369 LOCUSes, 53M
+  chunk_015.gbk: 18369 LOCUSes, 32M
+  chunk_016.gbk: 18369 LOCUSes, 53M
+  chunk_017.gbk: 18369 LOCUSes, 32M
+  chunk_018.gbk: 18369 LOCUSes, 52M
+  chunk_019.gbk: 18369 LOCUSes, 32M
+  chunk_020.gbk: 18369 LOCUSes, 54M
+  chunk_021.gbk: 18369 LOCUSes, 32M
+  chunk_022.gbk: 18369 LOCUSes, 53M
+  chunk_023.gbk: 18369 LOCUSes, 32M
+  chunk_024.gbk: 18369 LOCUSes, 53M
+  chunk_025.gbk: 18369 LOCUSes, 32M
+  chunk_026.gbk: 18369 LOCUSes, 53M
+  chunk_027.gbk: 18369 LOCUSes, 32M
+  chunk_028.gbk: 18369 LOCUSes, 53M
+  chunk_029.gbk: 18369 LOCUSes, 32M
+  chunk_030.gbk: 18369 LOCUSes, 53M
+  chunk_031.gbk: 18369 LOCUSes, 32M
+  chunk_032.gbk: 18369 LOCUSes, 53M
+  chunk_033.gbk: 18369 LOCUSes, 32M
+  chunk_034.gbk: 18369 LOCUSes, 52M
+  chunk_035.gbk: 18369 LOCUSes, 32M
+  chunk_036.gbk: 18369 LOCUSes, 51M
+  chunk_037.gbk: 18369 LOCUSes, 32M
+  chunk_038.gbk: 18369 LOCUSes, 51M
+  chunk_039.gbk: 18331 LOCUSes, 32M
+Espacio total: 1.7G	/home/claire/emapper2gbk/TESIS/san_antonio/gbk
