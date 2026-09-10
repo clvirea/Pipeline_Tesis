@@ -1,0 +1,81 @@
+<sbml xmlns="http://www.sbml.org/sbml/level2" level="2" version="1">
+<model id="Seed">
+  <listOfCompartments>
+    <compartment id="c"/>  <!-- cytosol -->
+    <compartment id="p"/>  <!-- periplasm -->
+    <compartment id="e"/>  <!-- extracellular -->
+  </listOfCompartments>
+  <listOfSpecies>
+  <!-- ===================== ENERGY TRANSFER COFACTORS ===================== -->
+    <species id="M_ATP_c__cof__" compartment="c"/>           <!-- ATP -->
+    <species id="M_ADP_c__cof__" compartment="c"/>           <!-- ADP -->
+    <species id="M_AMP_c__cof__" compartment="c"/>           <!-- AMP -->
+    <species id="M_GTP_c__cof__" compartment="c"/>           <!-- GTP -->
+    <species id="M_GDP_c__cof__" compartment="c"/>           <!-- GDP -->
+    <species id="M_ATP_p__cof__" compartment="p"/>           <!-- ATP (periplasm) -->
+    <species id="M_ADP_p__cof__" compartment="p"/>           <!-- ADP (periplasm) -->
+    <species id="M_GTP_p__cof__" compartment="p"/>           <!-- GTP (periplasm) -->
+    <species id="M_GDP_p__cof__" compartment="p"/>           <!-- GDP (periplasm) -->
+    <species id="M_ATP_e__cof__" compartment="e"/>           <!-- ATP (extracellular) -->
+    <species id="M_ADP_e__cof__" compartment="e"/>           <!-- ADP (extracellular) -->
+  <!-- ===================== REDOX COFACTORS: NAD(P)(H) ===================== -->
+    <species id="M_NAD_c__cof__" compartment="c"/>                             <!-- NAD+ -->
+    <species id="M_NADH_c__cof__" compartment="c"/>                            <!-- NADH -->
+    <species id="M_NAD_p__cof__" compartment="p"/>                             <!-- NAD+ (p) -->
+    <species id="M_NADH_p__cof__" compartment="p"/>                            <!-- NADH (p) -->
+    <species id="M_NADP_c__cof__" compartment="c"/>                            <!-- NADP+ -->
+    <species id="M_NADPH_c__cof__" compartment="c"/>                           <!-- NADPH -->
+    <species id="M_NADP_e__cof__" compartment="e"/>                            <!-- NADP+ (e) -->
+    <species id="M_NADPH_e__cof__" compartment="e"/>                           <!-- NADPH (e) -->
+  <!-- ===================== REDOX COFACTORS: FLAVINS ===================== -->
+    <species id="M_FAD_c__cof__" compartment="c"/>                             <!-- FAD -->
+    <species id="M_FADH2_c__cof__" compartment="c"/>                           <!-- FADH2 -->
+    <species id="M_FMN_c__cof__" compartment="c"/>                             <!-- FMN -->
+    <species id="M_FMNH2_c__cof__" compartment="c"/>                           <!-- FMNH2 -->
+  <!-- ===================== REDOX COFACTORS: FERREDOXINS ===================== -->
+    <species id="M_Oxidized__45__ferredoxins_c__cof__" compartment="c"/>       <!-- Oxidized ferredoxin -->
+    <species id="M_Reduced__45__ferredoxins_c__cof__" compartment="c"/>        <!-- Reduced ferredoxin -->
+    <species id="M_Oxidized__45__ferredoxins_e__cof__" compartment="e"/>       <!-- Oxidized ferredoxin (e) -->
+    <species id="M_Reduced__45__ferredoxins_e__cof__" compartment="e"/>        <!-- Reduced ferredoxin (e) -->
+  <!-- ===================== REDOX COFACTORS: ETF ===================== -->
+    <species id="M_ETF__45__Oxidized_c__cof__" compartment="c"/>               <!-- Oxidized ETF -->
+    <species id="M_ETF__45__Reduced_c__cof__" compartment="c"/>                <!-- Reduced ETF -->
+    <species id="M_ETF__45__Oxidized_p__cof__" compartment="p"/>               <!-- Oxidized ETF (p) -->
+    <species id="M_ETF__45__Reduced_p__cof__" compartment="p"/>                <!-- Reduced ETF (p) -->
+  <!-- ===================== REDOX COFACTORS: CYTOCHROMES C ===================== -->
+    <species id="M_Cytochromes__45__C__45__Oxidized_c__cof__" compartment="c"/><!-- Oxidized cytochrome c -->
+    <species id="M_Cytochromes__45__C__45__Reduced_c__cof__" compartment="c"/> <!-- Reduced cytochrome c -->
+    <species id="M_Cytochromes__45__C__45__Oxidized_p__cof__" compartment="p"/><!-- Oxidized cytochrome c (p) -->
+    <species id="M_Cytochromes__45__C__45__Reduced_p__cof__" compartment="p"/> <!-- Reduced cytochrome c (p) -->
+    <species id="M_Cytochromes__45__C__45__Oxidized_e__cof__" compartment="e"/><!-- Oxidized cytochrome c (e) -->
+    <species id="M_Cytochromes__45__C__45__Reduced_e__cof__" compartment="e"/> <!-- Reduced cytochrome c (e) -->
+  <!-- ===================== REDOX COFACTORS: PLASTOQUINONE / PLASTOCYANIN ===================== -->
+    <species id="M_PLASTOQUINONE__45__9_c__cof__" compartment="c"/>            <!-- Plastoquinone-9 -->
+    <species id="M_CPD__45__12829_c__cof__" compartment="c"/>                  <!-- Plastoquinol-9 -->
+    <species id="M_Oxidized__45__Plastocyanins_c__cof__" compartment="c"/>     <!-- Oxidized plastocyanin -->
+    <species id="M_Plastocyanin__45__Reduced_c__cof__" compartment="c"/>       <!-- Reduced plastocyanin -->
+  <!-- ===================== REDOX COFACTORS: THIOREDOXIN ===================== -->
+    <species id="M_Ox__45__Thioredoxin_c__cof__" compartment="c"/>             <!-- Oxidized thioredoxin -->
+    <species id="M_Red__45__Thioredoxin_c__cof__" compartment="c"/>            <!-- Reduced thioredoxin -->
+  <!-- ===================== REDOX COFACTORS: HEMOPROTEIN REDUCTASE ===================== -->
+    <species id="M_Ox__45__NADPH__45__Hemoprotein__45__Reductases_c__cof__" compartment="c"/> <!-- Oxidized hemoprotein reductase -->
+    <species id="M_Red__45__NADPH__45__Hemoprotein__45__Reductases_c__cof__" compartment="c"/> <!-- Reduced hemoprotein reductase -->
+  <!-- ===================== REDOX COFACTORS: GENERIC NAD(P)(H) ===================== -->
+    <species id="M_NAD__45__P__45__OR__45__NOP_c__cof__" compartment="c"/>     <!-- Generic NAD(P)+ -->
+    <species id="M_NADH__45__P__45__OR__45__NOP_c__cof__" compartment="c"/>    <!-- Generic NAD(P)H -->
+  <!-- ===================== REDOX COFACTORS: GENERIC ACCEPTOR/DONOR ===================== -->
+    <species id="M_Acceptor_c__cof__" compartment="c"/>                        <!-- Generic electron acceptor -->
+    <species id="M_Donor__45__H2_c__cof__" compartment="c"/>                   <!-- Generic H2 donor -->
+    <species id="M_Acceptor_p__cof__" compartment="p"/>                        <!-- Generic electron acceptor (p) -->
+    <species id="M_Donor__45__H2_p__cof__" compartment="p"/>                   <!-- Generic H2 donor (p) -->
+  <!-- ===================== ONE-CARBON COFACTORS (FOLATES) ===================== -->
+    <species id="M_THF_c__cof__" compartment="c"/>                             <!-- Tetrahydrofolate (THF) — comparte cof1 en 3 pares (10-FORMYL, METHYLENE, 5-METHYL) -->
+    <species id="M_10__45__FORMYL__45__THF_c__cof__" compartment="c"/>         <!-- 10-Formyl-THF -->
+    <species id="M_METHYLENE__45__THF_c__cof__" compartment="c"/>              <!-- 5,10-Methylene-THF -->
+    <species id="M_5__45__METHYL__45__THF_c__cof__" compartment="c"/>          <!-- 5-Methyl-THF -->
+  <!-- ===================== GROUP TRANSFER: CoA ===================== -->
+    <species id="M_CO__45__A_c__cof__" compartment="c"/>               <!-- Coenzyme A (CoA) -->
+    <species id="M_ACETYL__45__COA_c__cof__" compartment="c"/>         <!-- Acetyl-CoA -->
+  </listOfSpecies>
+  </model>
+</sbml>
