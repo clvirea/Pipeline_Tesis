@@ -22,6 +22,6 @@ Por cada sitio se copia el script, se reemplazan las rutas de entrada
 sitio (aprox. genes / 41.000; este número fue el tamaño definido empíricamente en la primera 
 corrida: sitio Ilque, N_CHUNKS=5). 
 
-Los datos de entrada (fna/faa/anotaciones) están disponibles en: [https://drive.google.com/drive/u/3/folders/1_sEGeOHrAnkgh3px7VRD88SxQoieFjvA].
+Los datos de entrada (fna/faa/anotaciones) están disponibles en: [https://drive.google.com/drive/u/3/folders/1_sEGeOHrAnkgh3px7VRD88SxQoieFjvA]
 
-Los modelos generados, sin ningún tipo de curación, se encuentran en la carpeta "sbml" de cada sitio correspondiente en este Drive: [https://drive.google.com/drive/folders/1it7D4Ucdo8WPooAbmDJR0UT93wKm-yeQ?usp=sharing].
+Los modelos generados, sin ningún tipo de curación, se encuentran en la carpeta "sbml" de cada sitio correspondiente en: https://drive.google.com/drive/folders/1it7D4Ucdo8WPooAbmDJR0UT93wKm-yeQ?usp=sharing
